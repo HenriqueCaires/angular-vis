@@ -47,8 +47,8 @@
     "postversion": "git push origin master && git push --tags"
   },
   "dependencies": {
-    "vis": "4.17.0",
-    "@types/vis": "4.17.4"
+    "vis": "4.21.0",
+    "@types/vis": "4.21.3"
   },
   "peerDependencies": {
     "@angular/common": "^2.4.10",
