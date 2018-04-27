@@ -27,7 +27,6 @@ npm-debug.log
 /components/**/*.js.map
 /components/**/*.d.ts
 ng2-vis.js
-ng2-vis.d.ts
 ng2-vis.metadata.json
 ng2-vis.ngfactory.ts
 ng2-vis.js.map
